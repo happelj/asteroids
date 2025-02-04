@@ -48,6 +48,7 @@ This repository contains the **Asteroids Game**, a Python-based implementation o
    - Points are awarded for every asteroid destroyed.
 
 ## Future Enhancements
+- Adding Scoring
 - Adding power-ups.
 - Implementing a leaderboard.
 - Enhancing graphics and sound effects.
